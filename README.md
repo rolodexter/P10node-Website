@@ -2,8 +2,7 @@
 
 This repository houses the documentation, development roadmap, and resources for the p10node website, designed to support blockchain infrastructure services and streamline client onboarding and partnerships.
 
-> **Note**: This repository is an initial proposal and has not yet received any feedback or endorsement from the p10 team. Additionally, the repository is maintained with advisory input from an external collaborator, who is not affiliated with the p10 team. All suggestions and contributions are provided independently and have no bearing or influence on p10node's operations whatsoever.
-
+> **Note**: This repository is an initial proposal and has not yet received any feedback or endorsement from the p10 team. Additionally, the repository is maintained with advisory input from an external collaborator, [@rolodexter](https://github.com/rolodexter), who is not affiliated with the p10 team. All suggestions and contributions are provided independently and have no bearing or influence on p10node's operations whatsoever.
 
 ## Project Overview
 
