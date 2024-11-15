@@ -10,8 +10,6 @@ p10node is designed to power this future. p10's infrastructure solutions, includ
 
 > Learn more about this vision and the [key tenets](docs/vision_tenets.md) of building resilient, scalable infrastructure that can support the next wave of decentralized innovation.
 
----
-
 ## Project Overview
 
 The p10node website operates with two core focuses:
@@ -19,8 +17,6 @@ The p10node website operates with two core focuses:
 1. **[Marketing and Business Development](docs/marketing_business_dev/)**: This area of the site is dedicated to attracting new clients, partners, and stakeholders. It includes resources for the **[Client Intake and Pre-Qualification](docs/marketing_business_dev/client_intake_prequalification.md)** process to collect essential project details from prospective clients, as well as [client onboarding](docs/marketing_business_dev/onboarding.md), [partnership information](docs/marketing_business_dev/partnerships_and_collaborations.md), [pricing models](docs/marketing_business_dev/pricing_models.md), and marketing assets.
 
 2. **[Service Delivery](docs/service_delivery/)**: This section is focused on delivering and supporting blockchain infrastructure services, including **[Node-as-a-Service (NaaS)](docs/service_delivery/naas_services.md)**, **[RPC services](docs/service_delivery/public_rpcs.md)**, **[validator operations](docs/service_delivery/validator.md)**, and other Cosmos ecosystem integrations.
-
----
 
 ## Collaborative Client Space
 
@@ -33,8 +29,6 @@ The **[Collaborative Space](docs/marketing_business_dev/collaborative_space.md)*
   - Supports predictive modeling for market trends, enabling p10node to stay ahead of industry shifts.
 
 The collaborative space’s dynamic and flexible design allows for tailored interactions, empowering **[administrators](docs/service_delivery/administrators.md)** to gather critical information while fostering productive partnerships.
-
----
 
 ## Key Operational Areas and Functions
 
@@ -60,7 +54,6 @@ The collaborative space’s dynamic and flexible design allows for tailored inte
   - **[Addbook](docs/service_delivery/addbook.md)** and **[Livepeers](docs/service_delivery/livepeers.md)**: Tools for network connectivity and node discovery.
   - **[Snapshots](docs/service_delivery/snapshots.md)**: Ready-to-use blockchain snapshots for efficient node setup.
 
----
 
 ## Documentation Structure
 
