@@ -1,8 +1,14 @@
 # p10node Website
 
-This repository houses the documentation, development roadmap, and resources for the p10node website, designed to support blockchain infrastructure services and streamline client onboarding and partnerships.
+**The first product to go from 0 to a billion users, will need infrastructure.**
 
-> **Note**: This repository is an initial proposal and has not yet received any feedback or endorsement from the p10 team. Additionally, the repository is maintained with advisory input from an external collaborator, [@rolodexter](https://github.com/rolodexter), who is not affiliated with the p10 team. All suggestions and contributions are provided independently and have no bearing or influence on p10node's operations whatsoever.
+OpenAI’s ChatGPT shattered growth records, reaching 100 million users within a month, but this only hints at what’s to come. The first product to reach a billion users in a single month will be a decentralized protocol (i.e. a blockchain), but will rely on core nework infrastructure that is resilient and agile, capable of scaling across global economies and adapting to volatile environments.
+
+p10node is designed to power this future. p10's infrastructure solutions, including **Node-as-a-Service (NaaS)**, **RPC services**, and **customizable validator operations**, offer the robust foundation necessary to support 0-billion growth. From handling billions of transactions to maintaining reliable uptime across diverse networks, p10node provides the essential infrastructure to meet the demands of the next breakthrough in decentralized technology.
+
+> Learn more about this vision and the [key tenets](docs/vision_tenets.md) of building resilient, scalable infrastructure that can support the next wave of decentralized innovation.
+
+---
 
 ## Project Overview
 
@@ -11,6 +17,8 @@ The p10node website operates with two core focuses:
 1. **[Marketing and Business Development](docs/marketing_business_dev/)**: This area of the site is dedicated to attracting new clients, partners, and stakeholders. It includes resources for the **[Client Intake and Pre-Qualification](docs/marketing_business_dev/client_intake_prequalification.md)** process to collect essential project details from prospective clients, as well as [client onboarding](docs/marketing_business_dev/onboarding.md), [partnership information](docs/marketing_business_dev/partnerships_and_collaborations.md), [pricing models](docs/marketing_business_dev/pricing_models.md), and marketing assets.
 
 2. **[Service Delivery](docs/service_delivery/)**: This section is focused on delivering and supporting blockchain infrastructure services, including **[Node-as-a-Service (NaaS)](docs/service_delivery/naas_services.md)**, **[RPC services](docs/service_delivery/public_rpcs.md)**, **[validator operations](docs/service_delivery/validator.md)**, and other Cosmos ecosystem integrations.
+
+---
 
 ## Collaborative Client Space
 
@@ -23,6 +31,8 @@ The **[Collaborative Space](docs/marketing_business_dev/collaborative_space.md)*
   - Supports predictive modeling for market trends, enabling p10node to stay ahead of industry shifts.
 
 The collaborative space’s dynamic and flexible design allows for tailored interactions, empowering **[administrators](docs/service_delivery/administrators.md)** to gather critical information while fostering productive partnerships.
+
+---
 
 ## Key Operational Areas and Functions
 
@@ -47,6 +57,8 @@ The collaborative space’s dynamic and flexible design allows for tailored inte
   - **[Statesync](docs/service_delivery/statesync.md)**: Enables rapid node setup with state synchronization.
   - **[Addbook](docs/service_delivery/addbook.md)** and **[Livepeers](docs/service_delivery/livepeers.md)**: Tools for network connectivity and node discovery.
   - **[Snapshots](docs/service_delivery/snapshots.md)**: Ready-to-use blockchain snapshots for efficient node setup.
+
+---
 
 ## Documentation Structure
 
@@ -74,3 +86,4 @@ The `docs` directory is organized to facilitate easy access to resources across 
 │   ├── cosscan.md
 │   └── roadmap.md
 ```
+
