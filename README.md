@@ -1,6 +1,8 @@
 # p10node Website
 
-**The first product to go from 0 to a billion users, will need infrastructure.**
+> **Note**: This repository is an initial proposal and has not yet received any feedback or endorsement from the p10 team. Additionally, the repository is maintained with advisory input from an external collaborator, [@rolodexter](https://github.com/rolodexter), who is not affiliated with the p10 team. All suggestions and contributions are provided independently and have no bearing or influence on p10node's operations whatsoever.
+
+### The first product to go from 0 to a billion users, will need infrastructure.
 
 OpenAI’s ChatGPT shattered growth records, reaching 100 million users within a month, but this only hints at what’s to come. The first product to reach a billion users in a single month will be a decentralized protocol (i.e. a blockchain), but will rely on core nework infrastructure that is resilient and agile, capable of scaling across global economies and adapting to volatile environments.
 
